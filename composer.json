@@ -11,8 +11,8 @@
   "extra": {
     "shopware-plugin-class": "Bastelwerkstatt\\Bastelwerkstatt",
     "label": {
-      "de-DE": "Theme Bastelwerkstatt plugin",
-      "en-GB": "Theme Bastelwerkstatt plugin"
+      "de-DE": "Theme Bastelwerkstatt",
+      "en-GB": "Theme Bastelwerkstatt"
     }
   }
 }
