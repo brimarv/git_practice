@@ -362,3 +362,208 @@ a.product-name {
     border-radius: 0;
     border-color:  $sw-color-brand-secondary;
 }
+
+footer .container {
+    max-width:none;
+    padding:0;
+}
+
+.col-5 cart-header-info{
+    text-align: left;
+}
+
+.row cart-header-row{
+    font-size: 1rem;
+}
+
+.custom-select{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: #5d5d5d;
+}
+
+.btn-light{
+    background-color: transparent;
+    border: none;
+    color:#5d5d5d;
+}
+
+.icon icon-shopware icon-xs{
+    display:none;
+}
+
+.icon icon-search{
+    width:18px;
+    height:18px;
+    color:#5d5d5d;
+    margin:0 -0.3rem;
+}
+
+.icon icon-avatar{
+    width:18px;
+    height:18px;
+    color:#5d5d5d;
+    margin:0 -0.3rem;
+}
+
+.icon icon-bag{
+    width:18px;
+    height:18px;
+    color:#5d5d5d;
+    margin:0 -0.3rem;
+}
+
+.footer-copyright{
+    font-size:0.75rem;
+}
+
+.footer-service-menu-list list-unstyled{
+    display:none;
+}
+
+.row footer-columns{
+    border:none;
+}
+
+.scroll-up-button js-scroll-up-button is-visible .btn btn-primary{
+    border: none;
+    background-color: transparent;
+}
+
+.icon icon-arrow-up icon-sm{
+    color:#5d5d5d;
+}
+
+.cms-block-container-row row cms-row {
+    text-align:center;
+}
+
+.breadcrumb cms-breadcrumb cms-breadcrump container{
+    display:none;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+h2{
+    text-transform: uppercase;
+}
+
+h3{
+    text-transform: uppercase;
+}
+
+h4{
+    text-transform: uppercase;
+}
+
+h5{
+    text-transform: uppercase;
+}
+
+h6{
+    text-transform: uppercase;
+}
+
+.filter-panel-item-toggle btn{
+    display:none;
+}
+
+.dropdown-menu.show{
+    display:none;
+}
+
+.cms-element-sidebar-filter{
+    display: flex;
+    justify-content: center; 
+}
+
+.cms-block pos-0 cms-block-image-text{
+    display:none;
+}
+
+.gallery-slider-thumbnails-item-inner{
+    border:none;
+}
+
+.base-slider-controls-prev gallery-slider-controls-prev is-nav-prev-inside{
+    display:none;
+}
+
+.base-slider-controls-next gallery-slider-controls-next is-nav-next-inside{
+    display:none;
+}
+
+.base-slider .tns-nav .base-slider-dot, .base-slider .base-slider-dots .base-slider-dot, .base-slider .tns-nav button, .base-slider .base-slider-dots button{
+    border-radius: 0;
+}
+
+.base-slider .tns-nav, .base-slider .base-slider-dots{
+    margin: 0 0 -2rem 0;
+}
+
+.dropdown-header account-menu-header{
+    text-align:center;
+}
+
+.list-group list-group-flush account-aside-list-group{
+    text-transform: uppercase;
+    font-size: .8rem;
+}
+
+.paypal-button paypal-button-number-0 paypal-button-layout-horizontal paypal-button-shape-rect paypal-button-number-single paypal-button-env-production paypal-button-color-black paypal-button-text-color-white paypal-logo-color-white paypal-button-clicked{
+    border-radius: 0;
+}
+
+.alert alert-success alert-has-icon{
+    border-radius:0;
+}
+
+.login-advantages{
+    display:none;
+}
+
+.col-lg-8, .is-act-cartpage .checkout .checkout-main, .is-act-checkoutregisterpage .checkout .checkout-main, .is-act-confirmpage .checkout .checkout-main, .is-act-finishpage .checkout .checkout-main{
+    max-width:100%;
+}
+
+.navigation-offcanvas-headline{
+    display: none;
+}
+
+.navigation-offcanvas-list-item{
+    border:none;
+    text-transform: uppercase;
+    margin: -.5rem 0;
+}
+
+.navigation-offcanvas-container js-navigation-offcanvas{
+    margin-top:1rem;
+}
+
+.nav-item nav-link is-back-link navigation-offcanvas-link js-navigation-offcanvas-link{
+    display:none;
+}
+
+.navigation-offcanvas-list-item:last-child{
+    border:0;
+}
+
+.list-unstyled navigation-offcanvas-list{
+    margin-top:1rem;
+}
+
+.register-form{
+    margin-bottom:1rem;
+}
+
+.footer-column{
+    margin: 0 -1rem;
+}
+
+.footer-link-item{
+    padding: 5px 0;
+    font-size: .75rem;
+}
